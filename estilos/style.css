@@ -7,3 +7,7 @@
   --destaque-inverso
   --fundo-card
 */
+body {
+  background-color: aliceblue;
+  color: #88d66e9c;
+}
